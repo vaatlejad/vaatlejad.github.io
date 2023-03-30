@@ -20,6 +20,16 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 ### 1. Vaatlejatel peab olema õigus vaidlustada toiminguid avalikes huvides
 
+E-hääletuse vaatlejatel pole võimalik kaevata protseduuride eiramise üle, mille tulemusel loetakse kokku nt vale arv hääli, kui pole tegu vaatleja isiklike õiguste rikkumisega, st vaatlemise takistamisega, või vaatleja kui valija isiklike õiguste rikkumisega, st ei loeta parajasti tõendatult kokku vaatleja enda antud häält.
+
+Mõistlik pole ka olukord, kus vaatlejad kunstlikult tekitavad olukorra,
+kus on tõendatult lugemisel nende isiklik hääl ja selle alusel
+sunnitakse kohus mõnda e-hääletuse süsteemset probleemi läbi arutama.
+
+E-hääletust korraldavate ja järele valvavate instantside ühekülgse ja üleliia põimitud motivatsiooni tõttu kujuneb enamik arutelusid valimisprotsesside üle varjatuks, mis ei vasta valimiste avalikkuse põhimõttele ning takistavad e-hääletuse arengut.
+
+Elektroonse hääletuse õigusraamistikus on ebaselge, missugusel juhul võiks olemasolevad instantsid üldse kuulutada e-hääletuse tulemused osaliselt või täielikult kehtetuks.
+
 ### 2. Vaadelda peab saama seadmeid ja andmevooge kogu e-hääletuse ulatuses
 
 ### 3. Infotehnoloogilised tegevused peavad olema käsitletud toimingutena
@@ -39,4 +49,4 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 1. Nimi Perenimi.
 
-gi
+
