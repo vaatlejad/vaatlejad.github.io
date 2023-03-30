@@ -1,12 +1,12 @@
 ---
 title: E-hääletus peab saama vaadeldavaks
-description: Vaatlejate ühisavaldus
+description: Vaatlejate ühisavaldus 2023. aasta Riigikogu valimiste järel
 layout: home
 ---
 
 # E-hääletus peab saama vaadeldavaks
 
-_Vaatlejate ühisavaldus_
+_Vaatlejate ühisavaldus 31. märtsil 2023_
 
 Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kujunemine on vaadeldav ja aus. Hääletustulemused tehakse kindlaks avalikult ja vaatlejate kontrolliva pilgu all. See peab kehtima ka elektroonse hääletuse jaoks. E-hääletus ei tohi olla usu või riigi usaldamise küsimus.
 
@@ -14,7 +14,9 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 * Taunime ajakirjanduse jp ühingute survet valimiskomisjonile ning riigikohtule kiirustada kaebuste menetlemise ja hääletustulemuste kindlakstegemisega. Demokraatia alusprotsesside hindamine ei tohi olla pealispindne.
 
-* __Nõuame e-hääletuse sisulise vaatlemise võimaldamist.__ Üleskutsed välistada uudse hääletusviisi kriitika ja katsed takistada valimistulemuste avalikku kindlakstegemist õõnestavad valimiste demokraatlikke põhimõtteid.
+* Nõuame e-hääletuse sisulise vaatlemise võimaldamist. Üleskutsed välistada uudse hääletusviisi kriitika ja katsed takistada valimistulemuste avalikku kindlakstegemist õõnestavad valimiste demokraatlikke põhimõtteid.
+
+## Meie nõudmised
 
 ### 1. Vaatlejatel peab olema õigus vaidlustada toiminguid avalikes huvides
 
@@ -26,9 +28,9 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 ### 5. Vaatlejatele tuleb tagada ajapädev ligipääs teabele, koodile jm materjalidele
 
-## Alla kirjutanud:
+## Alla kirjutanud
 
-### Ühinenud siseriiklikud e-hääletuse vaatlejad:
+### Ühinenud siseriiklikud e-hääletuse vaatlejad
 
 1. Nimi Perenimi. Vaatleja alates `nnnn`, esitanud kaebusi `n`, neist rahuldatud `n`. Lisaks see ja see.
 2. ...
@@ -37,4 +39,4 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 1. Nimi Perenimi.
 
-
+gi
