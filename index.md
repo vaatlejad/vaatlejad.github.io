@@ -1,10 +1,10 @@
 ---
-title: E-hääletus peab saama vaadeldavaks
+title: Nõuame vaadeldavat e-hääletust
 description: Vaatlejate ühisavaldus 2023. aasta Riigikogu valimiste järel
 layout: home
 ---
 
-# E-hääletus peab saama vaadeldavaks
+# Nõuame vaadeldavat e-hääletust
 
 _Valimisvaatlejate ühisavaldus 31. märtsil 2023_
 
