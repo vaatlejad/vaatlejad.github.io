@@ -20,8 +20,6 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 ### 1. Vaatlejatel peab olema õigus vaidlustada toiminguid avalikes huvides
 
----
-
 E-hääletuse vaatlejatel pole võimalik kaevata protseduuride eiramise üle, mille tulemusel loetakse kokku nt vale arv hääli, kui pole tegu vaatleja isiklike õiguste rikkumisega, st vaatlemise takistamisega, või vaatleja kui valija isiklike õiguste rikkumisega, st ei loeta parajasti tõendatult kokku vaatleja enda antud häält.
 
 Mõistlik pole ka olukord, kus vaatlejad kunstlikult tekitavad olukorra,
@@ -33,6 +31,21 @@ E-hääletust korraldavate ja järele valvavate instantside ühekülgse ja ülel
 Elektroonse hääletuse õigusraamistikus on ebaselge, missugusel juhul võiks olemasolevad instantsid üldse kuulutada e-hääletuse tulemused osaliselt või täielikult kehtetuks.
 
 ### 2. Vaadelda peab saama seadmeid ja andmevooge kogu e-hääletuse ulatuses
+
+E-hääletuse usaldusväärsuse tagamiseks peab olema võimalik vaadelda
+hääletusprotsesse nende esimesest sammust kuni viimaseni, st alates
+valijate nimekirjade koostamisest, riistvara ettevalmistamisest ja
+tarkvara kompileerimisest ja paigaldamisest kuni selle käivitamise ja
+kasutajatele avamiseni.
+
+Analoogia pabersedelitega hääletamisega ei kehti e-hääletuse puhul täielikult, kuid valija tegevus virtuaalses jaoskonnas algab hääletussedeli kättesaamisest autentimisega valijarakenduses, jätkub hääle sisetamisega kogumisteenusesse kui virtuaalsesse valimiskasti ning vaatleja rolli sisenemisega kontrollrakenduse kasutamisel.
+
+Vaatlejatel peab olema täiel määral võimalik vaadelda protsesse virtuaalses jaoskonnas, sh valimiskasti ja selle seisundite muutumist, aga ka üleminekut töötlemis- ja lugemisfaasi ning lõpuks tulemuste kokkulugemist. Kuni see on võimaldatud ainult osaliselt, ei saa pidada e-hääletust vaadeldavaks.
+
+E-hääletus peab olema vaadeldav andmete tasemel kõigile vaatlejatele
+ning selleks tuleb vaatlemise tähendus ümber mõtestada seadmete ja
+väljundite vaatlemiselt andmevoogude sisemisele vaatlemisele, mis
+võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Vaatlemist ei tohi piirata palgalise andmeadiitori rolliga.
 
 ### 3. Infotehnoloogilised tegevused peavad olema käsitletud toimingutena
 
