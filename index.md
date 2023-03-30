@@ -67,7 +67,13 @@ Nii ei saa pidada asjakohaseks, kui elektroonilised hääled loetakse kokku 5. m
 
 ### 5. Vaatlejatele tuleb tagada ajapädev ligipääs teabele, koodile jm materjalidele
 
+E-hääletuse vaatlemine toimub praegu peamiselt seadmete ja protseduuride välise vaatluse põhjal, mis keskendub seadmete käitamisel ja programmide käivitamisel. Seejuures võimaldatakse vaatlejatel dokumentatsiooniga tutvumist alles viimasel hetkel, valimistel kasutatavate seadmete spetsifikatsioon ja tarkvara lähtekood või binaarkood avaldatakse viimasel hetkel, nende kohta ei jagata korrektset lisainfot või pole seda süsteemide ettevalmistamisel jäädvustatud.
 
+Seejuures pole vaatlejatel siiani ligipääsu toimingute videotele, sj toimingute terminalilogidele, mille põhjal veenduda toimingute korrektsuses või üldse nende toimumises. Kuna e-hääletusega seotud dokumentatsioon ja selle läbiviimisega soetud otsused näivad sündivat n-ö käigu pealt, siis pole võimalik end vaatlemiseks ka ette valmistada.
+
+----
+
+E-hääletse veteranvaatlejate nõudmiste versioon 0.1 on avaldatud ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali.
 
 ## Alla kirjutanud
 
