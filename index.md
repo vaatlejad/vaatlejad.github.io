@@ -6,7 +6,7 @@ layout: home
 
 # E-hääletus peab saama vaadeldavaks
 
-_Vaatlejate ühisavaldus 31. märtsil 2023_
+_Valimisvaatlejate ühisavaldus 31. märtsil 2023_
 
 Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kujunemine on vaadeldav ja aus. Hääletustulemused tehakse kindlaks avalikult ja vaatlejate kontrolliva pilgu all. See peab kehtima ka elektroonse hääletuse jaoks. E-hääletus ei tohi olla usu või riigi usaldamise küsimus.
 
@@ -49,8 +49,13 @@ võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Vaatlemist e
 
 ### 3. Infotehnoloogilised tegevused peavad olema käsitletud toimingutena
 
-E-hääletus toimub infotehnoloogiliste vahenditega.
+E-hääletus toimub infotehnoloogiliste vahenditega ning suur jagu hääletussüsteemide ettevalmistamise, käitamise ja peatamise sündmusi on infotehnoloogilised. Need sündmused peavad olema registreeritud ja vaadeldavad, nende kohta peab olema võimalik saada lisainfot ning neid peab saama vaidlustada.
 
+Praeguses korralduses saab täiel määral vaatluse alla võtta üksnes toiminguid, kus valimiste korraldaja allkirjastab resultaate, aga mitte e-hääletuse tegelikke infotehnoloogilisi toiminguid nagu andmekandjate ettevalmistamine, serverite jooksev varundamine, teenuste seisundite logimine, tühistusnimekirjade koostamine jmt.
+
+Kasutatavad seadmed ja tarkvara peavad olema auditeeritud või sertifitseeritud, nendega seotud tegevuste ajalugu tagantjärele taasloodav.
+
+Tuleb lõpetada infotehnoloogiliste tegevuste käsitlus eksimatute ja alati õigetena, tarkvara ja riistvara toimimist ning selle kooskõla seaduste jm õigusaktidega peab olema võimalik sisuliselt hinnata. Õiguslike toimingute puhul ettenähtud kaebeõigus tuleb laiendada ka infotehnoloogilistele tegevustele ja toimingutele.
 
 ### 4. Toimingute vaidlustamise tähtajad peavad arvestama e-hääletuse eripäraga
 
