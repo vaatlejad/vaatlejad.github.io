@@ -49,11 +49,9 @@ võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Vaatlemist e
 
 ### 3. Infotehnoloogilised tegevused peavad olema käsitletud toimingutena
 
-E-hääletus toimub infotehnoloogiliste vahenditega ning suur jagu hääletussüsteemide ettevalmistamise, käitamise ja peatamise sündmusi on infotehnoloogilised. Need sündmused peavad olema registreeritud ja vaadeldavad, nende kohta peab olema võimalik saada lisainfot ning neid peab saama vaidlustada.
+E-hääletus toimub infotehnoloogiliste vahenditega ning suur jagu hääletussüsteemide ettevalmistamise, käitamise ja peatamise sündmusi on infotehnoloogilised. Need sündmused peavad olema registreeritud ja vaadeldavad, kasutatavad seadmed ja tarkvara peavad olema auditeeritud või sertifitseeritud, nendega seotud tegevuste ajalugu taasloodav.
 
-Praeguses korralduses saab täiel määral vaatluse alla võtta üksnes toiminguid, kus valimiste korraldaja allkirjastab resultaate, aga mitte e-hääletuse tegelikke infotehnoloogilisi toiminguid nagu andmekandjate ettevalmistamine, serverite jooksev varundamine, teenuste seisundite logimine, tühistusnimekirjade koostamine jmt.
-
-Kasutatavad seadmed ja tarkvara peavad olema auditeeritud või sertifitseeritud, nendega seotud tegevuste ajalugu tagantjärele taasloodav.
+Praeguses korralduses saab täiel määral vaatluse alla võtta üksnes toiminguid, kus valimiste korraldaja allkirjastab resultaate, aga mitte e-hääletuse tegelikke infotehnoloogilisi sündmusi või protsesse nagu andmekandjate ettevalmistamine, serverite jooksev varundamine, teenuste seisundite logimine, tühistusnimekirjade koostamine jmt.
 
 Tuleb lõpetada infotehnoloogiliste tegevuste käsitlus eksimatute ja alati õigetena, tarkvara ja riistvara toimimist ning selle kooskõla seaduste jm õigusaktidega peab olema võimalik sisuliselt hinnata. Õiguslike toimingute puhul ettenähtud kaebeõigus tuleb laiendada ka infotehnoloogilistele tegevustele ja toimingutele.
 
