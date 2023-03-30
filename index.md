@@ -16,7 +16,7 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 * Nõuame e-hääletuse sisulise vaatlemise võimaldamist. Üleskutsed välistada uudse hääletusviisi kriitika ja katsed takistada valimistulemuste avalikku kindlakstegemist õõnestavad valimiste demokraatlikke põhimõtteid.
 
-## Meie nõudmised
+Meie nõudmised:
 
 ### 1. Vaatlejatel peab olema õigus vaidlustada toiminguid avalikes huvides
 
@@ -49,11 +49,17 @@ võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Vaatlemist e
 
 ### 3. Infotehnoloogilised tegevused peavad olema käsitletud toimingutena
 
+E-hääletus toimub infotehnoloogiliste vahenditega.
 
 
 ### 4. Toimingute vaidlustamise tähtajad peavad arvestama e-hääletuse eripäraga
 
+
+
+
 ### 5. Vaatlejatele tuleb tagada ajapädev ligipääs teabele, koodile jm materjalidele
+
+
 
 ## Alla kirjutanud
 
