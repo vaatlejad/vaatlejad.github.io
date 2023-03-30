@@ -73,7 +73,7 @@ Vaatlejatel peab võimaldama tutvuda dokumentatsiooni, tarkvara lähtekoodi ja b
 
 Vaatlejatele peab testperioodil, prooviläbimistel ja valimiste ajal tagama võimalikult vahetu juurdepääsu videojäädvustustele ja eri süsteemilogidele, mis aitavad anda hinnangu süsteemi toimimisele. Kui vaatlejad ei saa eelnevalt e-hääletusega seotud teabega tutvuda, siis muutub eriti kriitiliseks lisainfo küsimine ja sellele vastamine, see tekitab kõigis osapooltes täiendavaid pingeid.
 
-__Siia veel üks positiivne lause?__
+Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pingutusest ning kui vaatlejatele ei tagata võimalust täita oma rolli valimiste läbiviimisel, siis süvendab kahtlusi valimiste usaldusväärsuses. On selge, et e-hääletus ilma sisulise vaatlemise võimaluseta pole jätkusuutlik.
 
 ----
 
