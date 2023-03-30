@@ -59,7 +59,7 @@ Tuleb lõpetada infotehnoloogiliste tegevuste käsitlus eksimatute ja alati õig
 
 E-hääletus on keeruline infotehnoloogiline süsteem, mille toimimise korrektsust on võimalik sageli sisuliselt hinnata alles pärast lisainfo küsimist valimiste korraldajalt ning andmeanalüüsi. Ka koosnevad toimingud enamasti osatoimingutest, mida on võimalik vajadusel suure täpsusega tuvastada.
 
-Infotehnoloogiliste süsteemide puhul ei ole asjakohane lähtuda tähtaegade määramisel pabersedelitega hääletuste nõudmistest, kus sündmused on üldiselt reaalajas ilma täiendava analüüsita vahetult vaadeldavad ja mõistetavad.
+Infotehnoloogiliste süsteemide puhul ei ole asjakohane lähtuda tähtaegade määramisel pabersedelitega hääletuste nõudmistest, kus sündmused ning nende tagajärjed on reaalajas nähtavad ja mõistetavad.
 
 Üldreeglina tuleks toimingute vaidlustamise tähtaegu lugeda mitte toimingu läbiviimise hetkest vaid toimingu avalikustamise, selle või selle täpsete asjaolude teatavakssaamise hetkest. Paljud infotehnoloogilised toimingud, nt süsteemi käivitamine, on jätkuva iseloomuga, mistõttu ei saa piirduda kaebeõiguse tähtaja määramisel toimingu alustamise ajaga, mille tulemusel võib toimingu vaidlustamise tähtaeg olla möödunud ajaks, mil sellest teada saadakse.
 
@@ -67,7 +67,7 @@ Nii ei saa pidada asjakohaseks, kui elektroonilised hääled loetakse kokku 5. m
 
 ### 5. Vaatlejatele tuleb tagada ajapädev ligipääs teabele, koodile jm materjalidele
 
-Elektroonne hääletus on uudne hääletusviis, mis oma noore vanuse tõttu on pidvas muutumises. See ei tohi aga tähendada, et otsuseid demokraatia alusprotsesside käitamise kohta tohiks teha jooksu pealt. Hääletussüsteemi arendustsükkel peab võimaldama sellega kõigis üksikasjades varakult tutvuda, et tagada sisukas avalikkuse demokraatlik kontroll selle üle.
+Elektroonne hääletus on uudne hääletusviis, mis oma noore vanuse tõttu on pidvas muutumises. See ei tohi aga tähendada, et otsuseid demokraatia alusprotsesside käitamise kohta tohiks teha jooksu pealt. Hääletussüsteemi arendustsükkel peab võimaldama sellega kõigis üksikasjades varakult tutvuda, et tagada avalikkuse sisuline demokraatlik kontroll selle üle.
 
 Vaatlejatel peab võimaldama tutvuda dokumentatsiooni, tarkvara lähtekoodi ja binaarkoodi, kasutatavate seadmete spetsifikatsiooni ja muude seotud materjalidega niimoodi, et oleks võimalik parandada e-hääletuse süsteemi suuremad puudujäägid enne valimisi.
 
