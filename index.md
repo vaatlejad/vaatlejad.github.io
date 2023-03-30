@@ -57,11 +57,13 @@ Tuleb lõpetada infotehnoloogiliste tegevuste käsitlus eksimatute ja alati õig
 
 ### 4. Toimingute vaidlustamise tähtajad peavad arvestama e-hääletuse eripäraga
 
-E-hääletus on keeruline infotehnoloogiline süsteem, mille toimimise korrektsust on võimalk sageli sisuliselt hinnata alles pärast lisainfo küsimist valimiste korraldajalt ning andmeanalüüsi.
+E-hääletus on keeruline infotehnoloogiline süsteem, mille toimimise korrektsust on võimalk sageli sisuliselt hinnata alles pärast lisainfo küsimist valimiste korraldajalt ning andmeanalüüsi. Ka koosnevad toimingud enamasti osatoimingutest, mida on võimalik vajadusel suure täpsusega tuvastada.
 
-...
+Infotehnoloogiliste süsteemide puhul ei ole asjakohane lähtuda tähtaegade määramisel pabersedelitega hääletuste nõudmistest, kus sündmused on üldiselt reaalajas ilma täiendava analüüsita vahetult vaadeldavad ja mõistetavad.
 
-Lisaks sellele on paljud infotehnoloogilised toimingud, nt süsteemi käivitamine, jätkuva iseloomuga, mistõttu ei saa piirduda kaebeõiguse tähtaja määramisel toimingu alustamise ajaga, mille tulemusel võib toimingu vaidlustamise tähtaeg olla möödunud ajaks, mil sellest teada saadakse.
+Üldeegline tuleks toimingute vaidlustamise tähtaegu lugeda mitte toimingu läbiviimise hetkest vaid toimingu avalikustamise, selle või selle täpsete asjaolude teatavakssaamise hetkest. Paljud infotehnoloogilised toimingud, nt süsteemi käivitamine, on jätkuva iseloomuga, mistõttu ei saa piirduda kaebeõiguse tähtaja määramisel toimingu alustamise ajaga, mille tulemusel võib toimingu vaidlustamise tähtaeg olla möödunud ajaks, mil sellest teada saadakse.
+
+Nii ei saa pidada asjakohaseks, kui elektroonilised hääled loetakse kokku 5. märtsil kell 23, tulemused avalikustatakse aga 8. märtsi pärastlõunal, mis teeb vaidlustamistähtajaks samal õhtul kell 23.59. Infotehnoloogiliste toimingute iseärasused teevad võimalikuks tähtaegadega manipuleerimise, mis loob motivatsiooni preventiivseteks ja fiktiivseteks kaebusteks vaatlejate poolt.
 
 ### 5. Vaatlejatele tuleb tagada ajapädev ligipääs teabele, koodile jm materjalidele
 
