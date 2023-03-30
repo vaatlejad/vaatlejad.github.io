@@ -12,7 +12,7 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 * Tunnustame erakondasid jt ühinguid, mis saatsid oma vaatlejad e-hääletuse protsesse jälgima. Valimistel konkureerivate osapoolte vaatlejateta pole protseduuride usaldusväärsus tagatud piisaval määral.
 
-* Taunime ajakirjanduse jp ühingute survet valimiskomisjonile ning riigikohtule kiirustada kaebuste menetlemise ja hääletustulemuste kindlakstegemisega. Demokraatia alusprotsesside hindamine ei tohi olla pealispindne.
+* Taunime ajakirjanduse survet valimiskomisjonile ning riigikohtule kiirustada kaebuste menetlemise ja hääletustulemuste kindlakstegemisega. Demokraatia alusprotsesside hindamine ei tohi olla pealispindne.
 
 * Nõuame e-hääletuse sisulise vaatlemise võimaldamist. Üleskutsed välistada uudse hääletusviisi kriitika ja katsed takistada valimistulemuste avalikku kindlakstegemist õõnestavad valimiste demokraatlikke põhimõtteid.
 
@@ -45,9 +45,11 @@ Vaatlejatel peab olema täiel määral võimalik vaadelda protsesse virtuaalses 
 E-hääletus peab olema vaadeldav andmete tasemel kõigile vaatlejatele
 ning selleks tuleb vaatlemise tähendus ümber mõtestada seadmete ja
 väljundite vaatlemiselt andmevoogude sisemisele vaatlemisele, mis
-võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Vaatlemist ei tohi piirata palgalise andmeadiitori rolliga.
+võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Vaatlemist ei tohi piirata palgalise andmeaudiitori rolliga.
 
 ### 3. Infotehnoloogilised tegevused peavad olema käsitletud toimingutena
+
+
 
 ### 4. Toimingute vaidlustamise tähtajad peavad arvestama e-hääletuse eripäraga
 
