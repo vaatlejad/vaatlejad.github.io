@@ -73,7 +73,7 @@ Seejuures pole vaatlejatel siiani ligipääsu toimingute videotele, sj toimingut
 
 ----
 
-E-hääletuse veteranvaatlejate nõudmiste versioon 0.1 on avaldatud ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali.
+_E-hääletuse veteranvaatlejate nõudmiste versioon 0.1 on avaldatud ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
 
 ## Alla kirjutanud
 
