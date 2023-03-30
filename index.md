@@ -59,6 +59,8 @@ Tuleb lõpetada infotehnoloogiliste tegevuste käsitlus eksimatute ja alati õig
 
 E-hääletus on keeruline infotehnoloogiline süsteem, mille toimimise korrektsust on võimalk sageli sisuliselt hinnata alles pärast lisainfo küsimist valimiste korraldajalt ning andmeanalüüsi.
 
+...
+
 Lisaks sellele on paljud infotehnoloogilised toimingud, nt süsteemi käivitamine, jätkuva iseloomuga, mistõttu ei saa piirduda kaebeõiguse tähtaja määramisel toimingu alustamise ajaga, mille tulemusel võib toimingu vaidlustamise tähtaeg olla möödunud ajaks, mil sellest teada saadakse.
 
 Näiteks ei saa pidada asjakohaseks, et elektroonilised hääled loeti kokku 5. märtsil kell 23, tulemused avalikustati aga 8. märtsi pärastlõunal mõni tund enne tööpäeva lõppu, mis tegi vaidlustamistähtajaks samal õhtul kell 23.59.
