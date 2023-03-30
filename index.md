@@ -59,13 +59,9 @@ Tuleb lõpetada infotehnoloogiliste tegevuste käsitlus eksimatute ja alati õig
 
 E-hääletus on keeruline infotehnoloogiline süsteem, mille toimimise korrektsust on võimalk sageli sisuliselt hinnata alles pärast lisainfo küsimist valimiste korraldajalt ning andmeanalüüsi.
 
-Seetõttu ei ole asjakohane, et elektroonilised hääled loeti 5. märtsil kell 23 aga tulemuste fail avalikustati alles 8. märtsi pärastlõunal ja mõni tund enne tööpäeva lõppu. Vaidlustamise tähtaeg oleks lõppenud kell 23.59.
+Lisaks sellele on paljud infotehnoloogilised toimingud, nt süsteemi käivitamine, jätkuva iseloomuga, mistõttu ei saa piirduda kaebeõiguse tähtaja määramisel toimingu alustamise ajaga, mille tulemusel võib toimingu vaidlustamise tähtaeg olla möödunud ajaks, mil sellest teada saadakse.
 
-
-Lisaks sellele on paljud infotehnoloogilised toimingud, nt süsteemi käivitamine, jätkuva iseloomuga, mistõttu ei saa piirduda kaebeõiguse tähtaja määramisel
-toimingu alustamise ajaga, mille tulemusel võib toimingu vaidlustamise
-tähtaeg olla möödunud sellest teadasaamise ajaks.
-
+Näiteks ei saa pidada asjakohaseks, et elektroonilised hääled loeti kokku 5. märtsil kell 23, tulemused avalikustati aga 8. märtsi pärastlõunal mõni tund enne tööpäeva lõppu, mis tegi vaidlustamistähtajaks samal õhtul kell 23.59.
 
 ### 5. Vaatlejatele tuleb tagada ajapädev ligipääs teabele, koodile jm materjalidele
 
@@ -77,7 +73,7 @@ tähtaeg olla möödunud sellest teadasaamise ajaks.
 
 1. Sulev Švilponis. Vaatleja alates 2015, kaebaja alates 2019.
 2. Meelis Kerbo. Vaatleja alates 2023.
-3. Märt Põder. Vaatleja alates 2015, kaebaja alates 2019, e-hääletuse töörühma sõltumatu liige.
+3. Märt Põder. Vaatleja alates 2015, kaebaja alates 2019, e-hääletuse töörühma 2019 sõltumatu liige.
 4. Virgo Kruve. Vaatleja alates 2011.
 5. Meelis Kaldalu. Kaebaja alates `nnnn`.
 6. ...
