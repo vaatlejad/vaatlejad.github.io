@@ -67,9 +67,13 @@ Nii ei saa pidada asjakohaseks, kui elektroonilised hääled loetakse kokku 5. m
 
 ### 5. Vaatlejatele tuleb tagada ajapädev ligipääs teabele, koodile jm materjalidele
 
-E-hääletuse vaatlemine toimub praegu peamiselt seadmete ja protseduuride välise vaatluse põhjal, mis keskendub seadmete käitamisel ja programmide käivitamisel. Seejuures võimaldatakse vaatlejatel dokumentatsiooniga tutvumist alles viimasel hetkel, valimistel kasutatavate seadmete spetsifikatsioon ja tarkvara lähtekood või binaarkood avaldatakse viimasel hetkel, nende kohta ei jagata korrektset lisainfot või pole seda süsteemide ettevalmistamisel jäädvustatud.
+Elektroonne hääletus on uudne hääletusviis, mis oma noore vanuse tõttu on pidvas muutumises. See ei tohi aga tähendada, et otsuseid demokraatia alusprotsesside käitamise kohta tohiks teha jooksu pealt. Hääletussüsteemi arendustsükkel peab võimaldama sellega kõigis üksikasjades varakult tutvuda, et tagada sisukas avalikkuse demokraatlik kontroll selle üle.
 
-Seejuures pole vaatlejatel siiani ligipääsu toimingute videotele, sj toimingute terminalilogidele, mille põhjal veenduda toimingute korrektsuses või üldse nende toimumises. Kuna e-hääletusega seotud dokumentatsioon ja selle läbiviimisega soetud otsused näivad sündivat n-ö käigu pealt, siis pole võimalik end vaatlemiseks ka ette valmistada.
+Vaatlejatel peab võimaldama tutvuda dokumentatsiooni, tarkvara lähtekoodi ja binaarkoodi, kasutatavate seadmete spetsifikatsiooni ja muude seotud materjalidega niimoodi, et oleks võimalik parandada e-hääletuse süsteemi suuremad puudujäägid enne valimisi.
+
+Vaatlejatele peab testperioodil, prooviläbimistel ja valimiste ajal tagama võimalikult vahetu juurdepääsu videojäädvustustele ja eri süsteemilogidele, mis aitavad anda hinnangu süsteemi toimimisele. Kui vaatlejad ei saa eelnevalt e-hääletusega seotud teabega tutvuda, siis muutub eriti kriitiliseks lisainfo küsimine ja sellele vastamine, see tekitab kõigis osapooltes täiendavaid pingeid.
+
+__Siia veel üks positiivne lause?__
 
 ----
 
