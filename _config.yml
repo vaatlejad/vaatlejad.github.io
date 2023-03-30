@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: E-hääletuse vaatlejad
+description: Elektroonse hääletuse siseriiklikud vaatlejad koondusid, et teha oma ametiuhkusest lähtuvalt oluline avaldus
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://vaatlejad.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
