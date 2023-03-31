@@ -22,7 +22,7 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 E-hääletuse vaatlejatel puudub õiguslik võimalus tuua esile sisulisi puudujääke või rikkumisi, mis võivad muuta valimistulemust. Ei ole ette nähtud võimalust vaidlustada protseduuride eiramist, kui nendega pole rikutud _vaatleja_ isiklikke õigusi, st takistatud vaatlemist.
 
-Kuna alternatiiv on kaevata isiklike õiguste rikkumise üle _valijana_, kutsub see kunstlikult looma olukordi, kus on tõendatult lugemisel vaatleja isiklik hääl, et sel teel kutsuda kohut läbi arutama ilmset hälbimist protseduuridest või e-hääletuse süsteemset puudust.
+Kuna alternatiiv on kaevata isiklike õiguste rikkumise üle _valijana_, kutsub see kunstlikult looma olukordi, kus on tõendatult lugemisel vaatleja isiklik hääl, et sel teel kutsuda kohut läbi arutama hälbimist protseduuridest või mõnd e-hääletuse süsteemset puudust.
 
 Elektroonse hääletuse õigusraamistikus on ebaselge, missugusel juhul võiks olemasolevad instantsid üldse kuulutada e-hääletuse tulemused osaliselt või täielikult kehtetuks, sest osapoolte dünaamika pigem välistab selle võimaluse.
 
@@ -69,13 +69,13 @@ Elektroonne hääletus on uudne hääletusviis, mis oma noore vanuse tõttu on p
 
 Vaatlejatel peab võimaldama tutvuda dokumentatsiooni, tarkvara lähtekoodi ja binaarkoodi, kasutatavate seadmete spetsifikatsiooni ja muude seotud materjalidega niimoodi, et oleks võimalik parandada e-hääletuse süsteemi suuremad puudujäägid enne valimisi.
 
-Vaatlejatele peab testperioodil, prooviläbimistel ja valimiste ajal tagama võimalikult vahetu juurdepääsu videojäädvustustele ja eri süsteemilogidele, mis aitavad anda hinnangu süsteemi toimimisele. Kui vaatlejad ei saa eelnevalt e-hääletusega seotud teabega tutvuda, siis muutub lisainfo küsimine ja päringutele vastamine vastuolude allikaks.
+Vaatlejatele peab testperioodil, prooviläbimistel ja valimiste ajal tagama võimalikult vahetu juurdepääsu videojäädvustustele ja eri süsteemilogidele, mis aitavad anda hinnangu süsteemi toimimisele. Kui vaatlejad ei saa eelnevalt e-hääletusega seotud teabega tutvuda, muutub lisainfo küsimine ja päringutele vastamine vastuolude allikaks.
 
-Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pingutusest ning kui vaatlejatele ei tagata võimalust täita oma rolli valimiste läbiviimisel, siis süvendab see kahtlusi valimiste usaldusväärsuses. On selge, et e-hääletus ilma sisulise vaatlemise võimaluseta pole jätkusuutlik.
+Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pingutusest ning kui vaatlejatele ei tagata võimalust täita oma põhiseaduslikku rolli valimiste läbiviimisel, süvendab see kahtlusi valimiste usaldusväärsuses. On selge, et e-hääletus sisulise vaatlemise võimaluseta pole jätkusuutlik.
 
 ----
 
-_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil https://vaatlejad.github.io/ ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
+_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
 
 ## Alla kirjutanud
 
