@@ -89,7 +89,8 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 6. Heldur-Valdek Seeder. Vaatleja alates 2015, e-hääletuse töörühma 2019 sõltumatu liige.
 7. Martti Randma. Vaatleja alates 2023.
 8. Ivo Kubjas. Vaatleja alates 2023.
-9. ...
+9. Kalevi Koplik. Vaatleja alates 2021.
+10. ...
 
 ### Toetajad
 
