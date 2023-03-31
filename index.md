@@ -84,8 +84,8 @@ _E-hääletuse vaatlejate on avaldatud 31. märtsil 2023 ja edastatud valimiskom
 1. Sulev Švilponis. Vaatleja alates 2015, kaebaja alates 2019.
 2. Meelis Kerbo. Vaatleja alates 2023.
 3. Märt Põder. Vaatleja alates 2015, kaebaja alates 2019, e-hääletuse töörühma 2019 sõltumatu liige.
-4. Virgo Kruve. Vaatleja alates 2011.
-5. Meelis Kaldalu. Vaatleja ja kaebaja alates 2013.
+4. Meelis Kaldalu. Vaatleja ja kaebaja alates 2013.
+5. Virgo Kruve. Vaatleja alates 2011.
 6. ...
 
 ### Toetajad
