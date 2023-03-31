@@ -75,7 +75,7 @@ Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pin
 
 ----
 
-_E-hääletuse vaatlejate on avaldatud 31. märtsil 2023 veebiaadressil https://vaatlejad.github.io/ ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
+_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil https://vaatlejad.github.io/ ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
 
 ## Alla kirjutanud
 
