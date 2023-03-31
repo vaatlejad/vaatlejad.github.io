@@ -94,6 +94,6 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 
 ### Toetajad
 
-1. ...
+1. Günter Kits. IKT süsteemiarhitekt ja ekspert.
 
 
