@@ -81,12 +81,13 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 
 ### Ühinenud siseriiklikud e-hääletuse vaatlejad
 
-1. Sulev Švilponis. Vaatleja alates 2015, kaebaja alates 2019.
-2. Meelis Kerbo. Vaatleja alates 2023.
-3. Märt Põder. Vaatleja alates 2015, kaebaja alates 2019, e-hääletuse töörühma 2019 sõltumatu liige.
+1. Märt Põder. Vaatleja alates 2015, kaebaja alates 2019, e-hääletuse 2. Sulev Švilponis. Vaatleja alates 2015, kaebaja alates 2019.
+3. Meelis Kerbo. Vaatleja alates 2023.
+töörühma 2019 sõltumatu liige.
 4. Meelis Kaldalu. Vaatleja ja kaebaja alates 2013.
 5. Virgo Kruve. Vaatleja alates 2011.
-6. Heldur-Valdek Seeder. Vaatleja alates 2015, e-hääletuse töörühma 2019 sõltumatu liige,
+6. Heldur-Valdek Seeder. Vaatleja alates 2015, e-hääletuse töörühma 2019 sõltumatu liige.
+7. Martti Randma. Vaatleja alates 2023.
 
 ### Toetajad
 
