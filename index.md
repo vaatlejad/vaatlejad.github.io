@@ -18,19 +18,17 @@ Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kuju
 
 ## Meie nõudmised
 
-### 1. Vaatlejatel peab olema õigus vaidlustada toiminguid avalikes huvides
+### 1. Vaatlejatele vaidlustamisõigus avalikes huvides
 
-E-hääletuse vaatlejatel pole võimalik kaevata protseduuride eiramise üle, mille tulemusel loetakse kokku nt vale arv hääli, kui pole tegu vaatleja isiklike õiguste rikkumisega, st vaatlemise takistamisega, või vaatleja kui valija isiklike õiguste rikkumisega, st ei loeta parajasti tõendatult kokku vaatleja enda antud häält.
+E-hääletuse vaatlejatel puudub õiguslik võimalus tuua esile sisulisi puudujääke või rikkumisi, mis võivad muuta valimistulemust. Ei ole ette nähtud võimalust vaidlustada protseduuride eiramist, kui nendega pole rikutud _vaatleja_ isiklikke õigusi, st takistatud vaatlemist.
 
-Mõistlik pole ka olukord, kus vaatlejad kunstlikult tekitavad olukorra,
-kus on tõendatult lugemisel nende isiklik hääl ja selle alusel
-sunnivad kohut mõnda e-hääletuse süsteemset probleemi läbi arutama.
+Kuna alternatiiv on kaevata isiklike õiguste rikkumise üle _valijana_, kutsub see kunstlikult looma olukordi, kus on tõendatult lugemisel vaatleja isiklik hääl, et sel teel kutsuda kohut läbi arutama ilmset hälbimist protseduuridest või e-hääletuse süsteemset puudust.
+
+Elektroonse hääletuse õigusraamistikus on ebaselge, missugusel juhul võiks olemasolevad instantsid üldse kuulutada e-hääletuse tulemused osaliselt või täielikult kehtetuks, sest osapoolte dünaamika pigem välistab selle võimaluse.
 
 E-hääletust korraldavate ja järele valvavate instantside ühekülgse ja üleliia põimitud motivatsiooni tõttu kujuneb enamik arutelusid valimisprotsesside üle varjatuks, mis ei vasta valimiste avalikkuse põhimõttele ning takistavad e-hääletuse arengut.
 
-Elektroonse hääletuse õigusraamistikus on ebaselge, missugusel juhul võiks olemasolevad instantsid üldse kuulutada e-hääletuse tulemused osaliselt või täielikult kehtetuks.
-
-### 2. Vaadelda peab saama seadmeid ja andmevooge kogu e-hääletuse ulatuses
+### 2. Vaadelda seadmeid ja andmevooge kogu e-hääletuse ulatuses
 
 E-hääletuse usaldusväärsuse tagamiseks peab olema võimalik vaadelda
 hääletusprotsesse nende esimesest sammust kuni viimaseni, st alates
@@ -40,44 +38,44 @@ kasutajatele avamiseni.
 
 Analoogia pabersedelitega hääletamisega ei kehti e-hääletuse puhul täielikult, kuid valija tegevus virtuaalses jaoskonnas algab hääletussedeli kättesaamisest autentimisega valijarakenduses, jätkub hääle sisetamisega kogumisteenusesse kui virtuaalsesse valimiskasti ning vaatleja rolli sisenemisega kontrollrakenduse kasutamisel.
 
-Vaatlejatel peab olema täiel määral võimalik vaadelda protsesse virtuaalses jaoskonnas, sh valimiskasti ja selle seisundite muutumist, aga ka üleminekut töötlemis- ja lugemisfaasi ning lõpuks tulemuste kokkulugemist. Kuni see on võimaldatud ainult osaliselt, ei saa pidada e-hääletust vaadeldavaks.
+Vaatlejatel peab olema täiel määral võimalik vaadelda protsesse virtuaalses jaoskonnas, sh valimiskasti ja selle seisundite muutumist, üleminekut töötlemis- ja lugemisfaasi ning lõpuks tulemuste kokkulugemist. Kuni see on võimaldatud vaid osaliselt, ei saa pidada e-hääletust vaadeldavaks.
 
 E-hääletus peab olema vaadeldav andmete tasemel kõigile vaatlejatele
 ning selleks tuleb vaatlemise tähendus ümber mõtestada seadmete ja
 väljundite vaatlemiselt andmevoogude sisemisele vaatlemisele, mis
-võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Vaatlemist ei tohi piirata palgalise andmeaudiitori rolliga.
+võimaldaks vaadelda protsesse e-hääletuse algusest kuni lõpuni. Andmevoo vaatlemist ei tohi piirata palgalise andmeaudiitori rolliga.
 
-### 3. Infotehnoloogilised tegevused peavad olema käsitletud toimingutena
+### 3. Infotehnoloogilisi tegevusi käsitleda toimingutena
 
 E-hääletus toimub infotehnoloogiliste vahenditega ning suur jagu hääletussüsteemide ettevalmistamise, käitamise ja peatamise sündmusi on infotehnoloogilised. Need sündmused peavad olema registreeritud ja vaadeldavad, kasutatavad seadmed ja tarkvara peavad olema auditeeritud või sertifitseeritud, nendega seotud tegevuste ajalugu taasloodav.
 
 Praeguses korralduses saab täiel määral vaatluse alla võtta üksnes toiminguid, kus valimiste korraldaja allkirjastab resultaate, aga mitte e-hääletuse tegelikke infotehnoloogilisi sündmusi või protsesse nagu andmekandjate ettevalmistamine, serverite jooksev varundamine, teenuste seisundite logimine, tühistusnimekirjade koostamine jmt.
 
-Tuleb lõpetada infotehnoloogiliste tegevuste käsitlus eksimatute ja alati õigetena, tarkvara ja riistvara toimimist ning selle kooskõla seaduste jm õigusaktidega peab olema võimalik sisuliselt hinnata. Õiguslike toimingute puhul ettenähtud kaebeõigus tuleb laiendada ka infotehnoloogilistele tegevustele ja toimingutele.
+Tuleb lõpetada infotehnoloogiliste tegevuste käsitlus eksimatute ja alati õigetena, tarkvara ja riistvara toimimist ning selle kooskõla õigusaktidega peab olema võimalik sisuliselt hinnata. Õiguslike toimingute puhul ettenähtud kaebeõigus tuleb laiendada ka infotehnoloogilistele tegevustele ja toimingutele.
 
-### 4. Toimingute vaidlustamise tähtajad peavad arvestama e-hääletuse eripäraga
+### 4. Vaidlustamistähtajad arvestagu e-hääletuse eripäraga
 
-E-hääletus on keeruline infotehnoloogiline süsteem, mille toimimise korrektsust on võimalik sageli sisuliselt hinnata alles pärast lisainfo küsimist valimiste korraldajalt ning andmeanalüüsi. Ka koosnevad toimingud enamasti osatoimingutest, mida on võimalik vajadusel suure täpsusega tuvastada.
+E-hääletus on keeruline infotehnoloogiline süsteem, mille toimimise korrektsust on võimalik sageli sisuliselt hinnata alles pärast lisainfo küsimist valimiste korraldajalt ning andme- või koodianalüüsi. Ka koosnevad toimingud enamasti osatoimingutest, mida on võimalik vajadusel suure täpsusega tuvastada.
 
-Infotehnoloogiliste süsteemide puhul ei ole asjakohane lähtuda tähtaegade määramisel pabersedelitega hääletuste nõudmistest, kus sündmused ning nende tagajärjed on reaalajas nähtavad ja mõistetavad.
+Infotehnoloogiliste süsteemide puhul ei ole asjakohane lähtuda tähtaegade määramisel pabersedelitega hääletuste nõuetest, kus sündmused ning nende tagajärjed on üldiselt reaalajas tuvastatavad ja mõistetavad.
 
-Üldreeglina tuleks toimingute vaidlustamise tähtaegu lugeda mitte toimingu läbiviimise hetkest vaid toimingu avalikustamise, selle või selle täpsete asjaolude teatavakssaamise hetkest. Paljud infotehnoloogilised toimingud, nt süsteemi käivitamine, on jätkuva iseloomuga, mistõttu ei saa piirduda kaebeõiguse tähtaja määramisel toimingu alustamise ajaga, mille tulemusel võib toimingu vaidlustamise tähtaeg olla möödunud ajaks, mil sellest teada saadakse.
+Üldreeglina tuleks toimingute vaidlustamise tähtaegu lugeda mitte toimingu läbiviimise hetkest vaid toimingu avalikustamise või asjaolude teatavakssaamise hetkest. Paljud infotehnoloogilised toimingud, nt süsteemi käivitamine, on jätkuva iseloomuga, mistõttu ei saa piirduda kaebeõiguse tähtaja määramisel toimingu alustamise ajaga, mille tulemusel võib toimingu vaidlustamise tähtaeg olla möödunud ajaks, mil sellest teada saadakse.
 
-Nii ei saa pidada asjakohaseks, kui elektroonilised hääled loetakse kokku 5. märtsil kell 23, tulemused avalikustatakse aga 8. märtsi pärastlõunal, mis teeks ebareaalseks vaidlustamistähtajaks sama päeva õhtul kell 23.59.
+Nii ei saa pidada asjakohaseks, kui elektroonsed hääled loetakse kokku 5. märtsil kell 23, tulemused avalikustatakse aga 8. märtsi pärastlõunal, mis teeks ebareaalseks vaidlustamistähtajaks sama päeva õhtul kell 23.59.
 
-### 5. Vaatlejatele tuleb tagada ajapädev ligipääs teabele, koodile jm materjalidele
+### 5. Tagada ajapädev ligipääs teabele, koodile jm materjalidele
 
 Elektroonne hääletus on uudne hääletusviis, mis oma noore vanuse tõttu on pidvas muutumises. See ei tohi aga tähendada, et otsuseid demokraatia alusprotsesside käitamise kohta tohiks teha jooksu pealt. Hääletussüsteemi arendustsükkel peab võimaldama sellega kõigis üksikasjades varakult tutvuda, et tagada avalikkuse sisuline demokraatlik kontroll selle üle.
 
 Vaatlejatel peab võimaldama tutvuda dokumentatsiooni, tarkvara lähtekoodi ja binaarkoodi, kasutatavate seadmete spetsifikatsiooni ja muude seotud materjalidega niimoodi, et oleks võimalik parandada e-hääletuse süsteemi suuremad puudujäägid enne valimisi.
 
-Vaatlejatele peab testperioodil, prooviläbimistel ja valimiste ajal tagama võimalikult vahetu juurdepääsu videojäädvustustele ja eri süsteemilogidele, mis aitavad anda hinnangu süsteemi toimimisele. Kui vaatlejad ei saa eelnevalt e-hääletusega seotud teabega tutvuda, siis muutub eriti kriitiliseks lisainfo küsimine ja sellele vastamine, see tekitab kõigis osapooltes täiendavaid pingeid.
+Vaatlejatele peab testperioodil, prooviläbimistel ja valimiste ajal tagama võimalikult vahetu juurdepääsu videojäädvustustele ja eri süsteemilogidele, mis aitavad anda hinnangu süsteemi toimimisele. Kui vaatlejad ei saa eelnevalt e-hääletusega seotud teabega tutvuda, siis muutub lisainfo küsimine ja päringutele vastamine vastuolude allikaks.
 
 Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pingutusest ning kui vaatlejatele ei tagata võimalust täita oma rolli valimiste läbiviimisel, siis süvendab see kahtlusi valimiste usaldusväärsuses. On selge, et e-hääletus ilma sisulise vaatlemise võimaluseta pole jätkusuutlik.
 
 ----
 
-_E-hääletuse vaatlejate nõudmiste versioon 0.1 on avaldatud ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
+_E-hääletuse vaatlejate on avaldatud 31. märtsil 2023 ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
 
 ## Alla kirjutanud
 
@@ -87,7 +85,7 @@ _E-hääletuse vaatlejate nõudmiste versioon 0.1 on avaldatud ja edastatud vali
 2. Meelis Kerbo. Vaatleja alates 2023.
 3. Märt Põder. Vaatleja alates 2015, kaebaja alates 2019, e-hääletuse töörühma 2019 sõltumatu liige.
 4. Virgo Kruve. Vaatleja alates 2011.
-5. Meelis Kaldalu. Kaebaja alates `nnnn`.
+5. Meelis Kaldalu. Vaatleja ja kaebaja alates 2013.
 6. ...
 
 ### Toetajad
