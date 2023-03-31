@@ -86,7 +86,7 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 3. Märt Põder. Vaatleja alates 2015, kaebaja alates 2019, e-hääletuse töörühma 2019 sõltumatu liige.
 4. Meelis Kaldalu. Vaatleja ja kaebaja alates 2013.
 5. Virgo Kruve. Vaatleja alates 2011.
-6. ...
+6. Heldur-Valdek Seeder. Vaatleja alates 2015, e-hääletuse töörühma 2019 sõltumatu liige,
 
 ### Toetajad
 
