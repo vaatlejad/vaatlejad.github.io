@@ -65,7 +65,7 @@ Nii ei saa pidada asjakohaseks, kui elektroonsed hääled loetakse kokku 5. mär
 
 ### 5. Tagada ajapädev ligipääs teabele, koodile jm materjalidele
 
-Elektroonne hääletus on uudne hääletusviis, mis oma noore vanuse tõttu on pidvas muutumises. See ei tohi aga tähendada, et otsuseid demokraatia alusprotsesside käitamise kohta tohiks teha jooksu pealt. Hääletussüsteemi arendustsükkel peab võimaldama sellega kõigis üksikasjades varakult tutvuda, et tagada avalikkuse sisuline demokraatlik kontroll selle üle.
+Elektroonne hääletus on uudne hääletusviis, mis oma noore vanuse tõttu on pidevas muutumises. See ei tohi aga tähendada, et otsuseid demokraatia alusprotsesside käitamise kohta tohiks teha jooksu pealt. Hääletussüsteemi arendustsükkel peab võimaldama sellega kõigis üksikasjades varakult tutvuda, et tagada avalikkuse sisuline demokraatlik kontroll selle üle.
 
 Vaatlejatel peab võimaldama tutvuda dokumentatsiooni, tarkvara lähtekoodi ja binaarkoodi, kasutatavate seadmete spetsifikatsiooni ja muude seotud materjalidega niimoodi, et oleks võimalik parandada e-hääletuse süsteemi suuremad puudujäägid enne valimisi.
 
@@ -75,7 +75,7 @@ Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pin
 
 ----
 
-_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning õiguskantslerile, informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
+_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning [õiguskantslerile](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
 
 ## Alla kirjutanud
 
