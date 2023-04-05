@@ -4,6 +4,10 @@
 
 Vaatlejate pöördumise pärast 2023. aasta Riigikogu valimisi leiad [siit](https://vaatlejad.github.io/).
 
+## Vastused
+
+![pilt](https://user-images.githubusercontent.com/736994/229963531-87477b74-343b-43f4-a2b5-bccaf7c95be1.png)
+
 ## Kajastused
 
 ![pilt](https://user-images.githubusercontent.com/736994/229239707-67169c4e-045d-46ff-8f96-6493b9dcbc38.png)
