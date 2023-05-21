@@ -1,7 +1,8 @@
 # Ühinenud siseriiklikud e-hääletuse vaatlejad
 
 * [Petitsiooni allkirjastamine](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)
-* [Ettepanekute tegemine](https://github.com/vaatlejad/vaatlejad.github.io/issues)
+* [Short translation of our demands](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803?language=en#initiative-header)
+* [Ettepanekute tegemine/haldus](https://github.com/vaatlejad/vaatlejad.github.io/issues)
 
 Vaatlejate pöördumise pärast 2023. aasta Riigikogu valimisi leiad [siit](https://vaatlejad.github.io/).
 
