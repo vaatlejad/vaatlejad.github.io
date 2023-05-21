@@ -75,7 +75,7 @@ Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pin
 
 ----
 
-_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning [õiguskantslerile](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule läbi rahvaalgatusportaali._
+_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning [õiguskantslerile](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), informatsiooniks ka riigikohtule. Täiendatud versioon esitatakse sisendina riigikogule [läbi rahvaalgatusportaali](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)._
 
 ## Alla kirjutanud
 
@@ -91,11 +91,10 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 8. Ivo Kubjas. Vaatleja alates 2023.
 9. Kalevi Koplik. Vaatleja alates 2021.
 10. ...
+11. Günter Kits. IKT süsteemiarhitekt ja ekspert.
+12. [Lauri Võsandi](https://www.linkedin.com/in/laurivosandi/) ...
+13.  ...
 
 ### Toetajad
 
-1. Günter Kits. IKT süsteemiarhitekt ja ekspert.
-2. [Lauri Võsandi](https://www.linkedin.com/in/laurivosandi/)
-3. ...
-
-
+* Anna toetusallkiri rahvaalgatusportaalis "[E-hääletus tuleb muuta vaadeldavaks!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)
