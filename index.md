@@ -97,4 +97,4 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 
 ### Toetajad
 
-* Anna toetusallkiri rahvaalgatusportaalis "[E-hääletus tuleb muuta vaadeldavaks!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)
+* Anna toetusallkiri rahvaalgatusportaalis [E-hääletus tuleb muuta vaadeldavaks!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)
