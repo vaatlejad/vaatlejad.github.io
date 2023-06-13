@@ -36,7 +36,7 @@ valijate nimekirjade koostamisest, riistvara ettevalmistamisest ja
 tarkvara kompileerimisest ja paigaldamisest kuni selle käivitamise ja
 kasutajatele avamiseni.
 
-Analoogia pabersedelitega hääletamisega ei kehti e-hääletuse puhul täielikult, kuid valija tegevus virtuaalses jaoskonnas algab hääletussedeli kättesaamisest autentimisega valijarakenduses, jätkub hääle sisetamisega kogumisteenusesse kui virtuaalsesse valimiskasti ning vaatleja rolli sisenemisega kontrollrakenduse kasutamisel.
+Analoogia pabersedelitega hääletamisega ei kehti e-hääletuse puhul täielikult, kuid valija tegevus virtuaalses jaoskonnas algab hääletussedeli kättesaamisest autentimisega valijarakenduses, jätkub hääle sisestamisega kogumisteenusesse kui virtuaalsesse valimiskasti ning vaatleja rolli sisenemisega kontrollrakenduse kasutamisel.
 
 Vaatlejatel peab olema täiel määral võimalik vaadelda protsesse virtuaalses jaoskonnas, sh valimiskasti ja selle seisundite muutumist, üleminekut töötlemis- ja lugemisfaasi ning lõpuks tulemuste kokkulugemist. Kuni see on võimaldatud vaid osaliselt, ei saa pidada e-hääletust vaadeldavaks.
 
