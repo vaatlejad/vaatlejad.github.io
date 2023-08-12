@@ -97,4 +97,4 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 
 /.../
 
-_Märgukiri "[E-hääletus tuleb muuta vaadeldavaks!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)" kogus petitsiooniportaalis 1068 allkirja ja esitati riigikogule ([in English](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803?language=en#initiative-header))_
+_Märgukiri "[E-hääletus tuleb muuta vaadeldavaks!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)" ([in English](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803?language=en#initiative-header)) kogus petitsiooniportaalis **1068 allkirja** ja esitati riigikogule._
