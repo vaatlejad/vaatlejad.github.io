@@ -76,7 +76,7 @@ Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pin
 
 ----
 
-_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning [õiguskantslerile](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), informatsiooniks ka riigikohtule. Toimetatud versioon esitati 4. juulil 2023 [läbi rahvaalgatusportaali](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header) riigikogule ning 25. setpembril [hakkab seda arutama põhiseaduskomisjon](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#events)._
+_E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning [õiguskantslerile](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), informatsiooniks ka riigikohtule. Toimetatud versioon esitati 4. juulil 2023 [läbi rahvaalgatusportaali](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header) riigikogule ning 25. septembril 2023 [hakkab seda arutama põhiseaduskomisjon](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#events)._
 
 ## Alla kirjutanud
 
@@ -97,4 +97,4 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 
 /.../
 
-_Märgukiri "[E-hääletus tuleb muuta vaadeldavaks!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)" ([in English](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803?language=en#initiative-header)) kogus petitsiooniportaalis **1068 allkirja** ja esitati riigikogule._
+_Märgukiri "[E-hääletus tuleb muuta vaadeldavaks!](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header)" ([in English](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803?language=en#initiative-header)) kogus petitsiooniportaalis **1068 allkirja** ja esitati 4. juulil 2023 riigikogule._
