@@ -78,6 +78,12 @@ Demokraatlike protsesside usaldusväärsus sõltub kõigi osapoolte ühisest pin
 
 _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadressil [vaatlejad.github.io](https://vaatlejad.github.io/) ja edastatud valimiskomisjonile ning [õiguskantslerile](https://github.com/vaatlejad/vaatlejad.github.io/blob/main/docs/6iguskantsleri_vastus-4.04.2023.pdf), informatsiooniks ka riigikohtule. Toimetatud versioon esitati 4. juulil 2023 [läbi rahvaalgatusportaali](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#initiative-header) riigikogule ning 25. septembril 2023 [hakkab seda arutama põhiseaduskomisjon](https://rahvaalgatus.ee/initiatives/7b9ecdfa-3b56-45d4-a0f8-a52ced3e5803/#events)._
 
+## Menetluskäik
+
+* [Menetlusse võtmine ja suunamine põhiseaduskomisjoni](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/690eb998-5492-472e-b32a-05bae51e6fa2) (13.07.2023)
+* [Pöördumise tutvustus põhiseaduskomisjonis, otsustamise edasilükkamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/a580c458-c4cd-4451-b66f-d4c377d34a34) (25.09.2023)
+* [Jätkuarutelu põhiseaduskomisjonis, valimisteenistuse ülekuulamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/a580c458-c4cd-4451-b66f-d4c377d34a34) (16.10.2023)
+
 ## Alla kirjutanud
 
 ### Ühinenud siseriiklikud e-hääletuse vaatlejad
