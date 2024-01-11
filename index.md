@@ -81,7 +81,7 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 * [Menetlusse võtmine ja suunamine põhiseaduskomisjoni](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/690eb998-5492-472e-b32a-05bae51e6fa2) (13.07.2023)
 * [Pöördumise tutvustus põhiseaduskomisjonis, otsustamise edasilükkamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/337e880d-426b-4432-a8e3-f2869d40f11a) (25.09.2023)
 * [Jätkuarutelu põhiseaduskomisjonis, valimisteenistuse ülekuulamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/a580c458-c4cd-4451-b66f-d4c377d34a34) (16.10.2023)
-* [Jätkuarutelu põhiseaduskomisjonis](https://www.riigikogu.ee/riigikogu/komisjonid/pohiseaduskomisjon/paevakorrad-ja-protokollid/?startDate=11.01.2024) (11.01.2024)
+* [Jätkuarutelu põhiseaduskomisjonis, pöördumise tagasilükkamine](https://www.riigikogu.ee/riigikogu/komisjonid/pohiseaduskomisjon/paevakorrad-ja-protokollid/?startDate=11.01.2024) (11.01.2024)
 
 ## Alla kirjutanud
 
