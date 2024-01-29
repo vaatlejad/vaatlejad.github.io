@@ -12,7 +12,6 @@ _Valimisvaatlejate ühisavaldus 31. märtsil 2023_
 Eesti demokraatia põhineb vabadel ja salajastel valimistel, mille tulemuse kujunemine on vaadeldav ja aus. Hääletustulemused tehakse kindlaks avalikult ja vaatlejate kontrolliva pilgu all. See peab kehtima ka elektroonse hääletuse jaoks. E-hääletus ei tohi olla usu või riigi usaldamise küsimus.
 
 * Tunnustame erakondasid ja ühinguid, mis saatsid oma vaatlejad e-hääletuse protsesse jälgima. Valimistel konkureerivate osapoolte vaatlejateta pole protseduuride usaldusväärsus tagatud piisaval määral.
-
 * Taunime ajakirjanduse survet valimiskomisjonile ning riigikohtule kiirustada kaebuste menetlemise ja hääletustulemuste kindlakstegemisega. Demokraatia alusprotsesside hindamine ei tohi olla pealispindne.
 
 * Nõuame e-hääletuse sisulise vaatlemise võimaldamist. Üleskutsed välistada uudse hääletusviisi kriitika ja katsed takistada valimistulemuste avalikku kindlakstegemist õõnestavad valimiste demokraatlikke põhimõtteid.
@@ -81,7 +80,8 @@ _E-hääletuse vaatlejate pöördumine on avaldatud 31. märtsil 2023 veebiaadre
 * [Menetlusse võtmine ja suunamine põhiseaduskomisjoni](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/690eb998-5492-472e-b32a-05bae51e6fa2) (13.07.2023)
 * [Pöördumise tutvustus põhiseaduskomisjonis, otsustamise edasilükkamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/337e880d-426b-4432-a8e3-f2869d40f11a) (25.09.2023)
 * [Jätkuarutelu põhiseaduskomisjonis, valimisteenistuse ärakuulamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/a580c458-c4cd-4451-b66f-d4c377d34a34) (16.10.2023)
-* [Jätkuarutelu põhiseaduskomisjonis, pöördumise tagasilükkamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/b3ae7f10-41e0-4795-8d57-9b9019fd6204) (11.01.2024)
+* [Jätkuarutelu põhiseaduskomisjonis, pöördumise tagasilükkamine](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/cbc8d54f-449e-4131-b014-8f0a97801b94) (11.01.2024)
+  * [Tagasilükkamise põhjendus](https://www.riigikogu.ee/tegevus/dokumendiregister/dokument/b3ae7f10-41e0-4795-8d57-9b9019fd6204) (18.01.2024, saabunud 29.01.2024)
 
 ## Alla kirjutanud
 
